@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"player",
+				"playerID"
+			],
+			[
+				"remove",
+				"removeVillager"
+			],
+			[
+				"board",
+				"boardTiles"
+			],
+			[
+				"Setup",
+				"SetupGame"
+			],
+			[
+				"tile",
+				"tileID-1"
+			],
+			[
+				"potent",
+				"potentialTiles"
+			],
+			[
+				"checkNode",
+				"checkNodeNeighbourTerrain"
+			],
+			[
+				"check",
+				"checkNodeNeighbourTerrain"
+			],
+			[
+				"pot",
+				"potentialTiles"
+			],
+			[
+				"poten",
+				"potentialEdges"
+			],
+			[
+				"resourc",
+				"resourceID"
+			],
+			[
+				"playerC",
+				"playerColours"
+			],
+			[
+				"current",
+				"currentPlayer"
+			],
+			[
+				"local",
+				"localNodeID"
+			],
+			[
+				"side",
+				"sideID2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Sikeloi-Model.py",
+			"settings":
+			{
+				"buffer_size": 183,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes"
+	],
+	"file_history":
+	[
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/Turns.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/Terrain.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/SimulateGame.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/SetupGame.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/Player.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/GameBoard.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/BoardTile.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/GameWindow.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/Board.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Classes/Assets.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Board.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/GameBoard.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Villager.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/SetupGame.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Player.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/Scout.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/GameWindow.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Model/BoardTile.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Assets.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Resource.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/SimulateGame.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Villager.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Turns.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/CreateSikeloiExe.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Sikeloi-Model.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/hello.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Terrain.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/BoardTile.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/BoardNode.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Player.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Scout.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/GameBoard.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/GameWindow.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/SetupGame.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/TileEdge.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Board.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/House.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Road.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Hoplite.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Roads.py",
+		"/C/Users/ctc23/Documents/PYTHON/Sikeloi-Modelling/Sikeloi-Model-Project.sublime-project"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Recruit",
+			"recruit",
+			"action",
+			"Build",
+			"build",
+			"villager",
+			"Villager",
+			"villager",
+			"hoplite",
+			"tileType",
+			"Resource",
+			"resource",
+			"\t\t\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Attack",
+			"attack",
+			"Move",
+			"move",
+			"scout",
+			"Scout",
+			"scout",
+			"terrain",
+			"Terrain",
+			"terrain"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Sikeloi-Model.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 230.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Sikeloi-Model-Project.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
